@@ -1,0 +1,26 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+img {
+    width: 250px;
+    height: 175px;
+    border-style: ridge;
+}
+
+.flags p {
+    text-align: center;
+}
+
+
